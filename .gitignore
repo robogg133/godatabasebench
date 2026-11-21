@@ -1,0 +1,8 @@
+profiles/
+*.prof
+results/*.txt
+pgdata/
+ent/
+sqlc/
+vendor/
+bin/
